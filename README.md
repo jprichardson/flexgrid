@@ -4,6 +4,12 @@ css - flexgrid
 A CSS framework to easily create HTML layouts using flexbox. Do not use it yet, it's not even close to being stable.
 
 
+Resources
+---------
+- http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- http://philipwalton.github.io/solved-by-flexbox/
+
+
 License
 --------
 

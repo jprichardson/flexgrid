@@ -1,0 +1,30 @@
+{
+  "name": "flexgrid",
+  "version": "0.0.0",
+  "description": "Grid system built on flexbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jprichardson/flexgrid"
+  },
+  "keywords": [
+    "css",
+    "css3",
+    "grid",
+    "flexbox",
+    "layout",
+    "html"
+  ],
+  "author": "JP Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprichardson/flexbox/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-less": "~0.8.2"
+  }
+}
